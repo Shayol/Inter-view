@@ -1,4 +1,4 @@
-## Ruby and Rails quastions
+## Ruby and Rails questions
 
 - [ ] что такое сингелтон
 - [ ] что такое модуль
