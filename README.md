@@ -1,6 +1,6 @@
 ## Ruby and Rails questions
 
-- [ ] [что такое сингелтон](http://www.devalot.com/articles/2008/09/ruby-singleton)
+- [x] [что такое сингелтон](http://www.devalot.com/articles/2008/09/ruby-singleton)
 - [ ] что такое модуль
 - [ ] как рубит интерпретатор ищет методы в классах
 - [ ] наследование
