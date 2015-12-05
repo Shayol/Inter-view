@@ -23,6 +23,6 @@
 - [ ] как работает HTTP протокол
 - [ ] как работает DNS
 - [ ] что такое REST
-- [ ] что такое dry
+- [ ] [что такое dry](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
 - [ ] convention over configuration
 - [ ] agile, scrum
